@@ -1,0 +1,3 @@
+[submodule "school-eureka-server"]
+	path = school-eureka-server
+	url = https://github.com/thiagocesar1/school-eureka-server
