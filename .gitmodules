@@ -1,3 +1,6 @@
 [submodule "school-eureka-server"]
 	path = school-eureka-server
 	url = https://github.com/thiagocesar1/school-eureka-server
+[submodule "school-marketing-service"]
+	path = school-marketing-service
+	url = https://github.com/thiagocesar1/school-marketing-service
