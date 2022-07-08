@@ -7,3 +7,6 @@
 [submodule "school-financial-service"]
 	path = school-financial-service
 	url = https://github.com/thiagocesar1/school-financial-service
+[submodule "school-mail-service"]
+	path = school-mail-service
+	url = https://github.com/thiagocesar1/school-mail-service
