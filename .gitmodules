@@ -4,3 +4,6 @@
 [submodule "school-marketing-service"]
 	path = school-marketing-service
 	url = https://github.com/thiagocesar1/school-marketing-service
+[submodule "school-financial-service"]
+	path = school-financial-service
+	url = https://github.com/thiagocesar1/school-financial-service
